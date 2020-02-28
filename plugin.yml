@@ -1,0 +1,4 @@
+name: Boosters
+main: com.gmail.filoghost.boosters.BoostersPlugin
+version: 1.0
+softdepend: [WildCommons]
